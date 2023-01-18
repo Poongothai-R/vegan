@@ -7,7 +7,7 @@ export default function Navbar() {
     return (
         <div className="navbar" id="navbar">
             <nav>
-                <a href='/' rel='noreferrer'> <img src={Logo} alt="vegan image and restaurant name" /></a>
+                <a href='/' rel='noreferrer'> <img src={Logo} alt="restaurant logo and restaurant name" /></a>
                 <ul>
                     <li><Link to="/">Home</Link></li>
                     <li><Link to="/Dishes">Dishes</Link></li>
