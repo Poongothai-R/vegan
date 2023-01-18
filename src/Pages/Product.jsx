@@ -1,5 +1,5 @@
 import { Link, useParams } from 'react-router-dom';
-import Ingredients from '../components/ingredients';
+import Ingredients from '../components/Ingredients';
 import CategoryData from '../data/category.json';
 import ProductItem from '../components/ProductItem';
 import Nutrition from '../components/Nutrition';
