@@ -1,0 +1,102 @@
+.product-item,
+.Ingredient-Items,
+.nutrition-page {
+    font-family: var(--font-primary);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    padding: 1%;
+    gap: 10px;
+    text-align: justify;
+}
+
+.product-item img {
+    width: 50%;
+}
+
+.product-item h1 {
+    font-size: xx-large;
+}
+
+.product-item p {
+    font-size: larger;
+    width: 50%;
+    text-align: justify;
+}
+
+.Ingredient-Items {
+    font-size: large;
+}
+
+.nutrition-banner {
+    border: 1px solid #fff;
+    margin: 20px;
+    float: left;
+    width: 280px;
+    padding: 0.5rem;
+}
+
+.nutrition-banner h4 {
+    font-size: small;
+    border-bottom: 1px solid #fff;
+    padding: 0 20px 0.25rem 10px;
+}
+
+.nutrition-banner span {
+    padding-left: 5px;
+}
+
+.nutrition-table {
+    justify-content: center;
+}
+
+.nutrition-table table {
+    width: 100%;
+    font-size: small;
+    padding: 10px 10px 0.25rem 10px;
+    margin: 0 0 0.5rem 0;
+}
+
+.nutrition-table table td:last-child,
+th:last-child {
+    text-align: right;
+}
+
+.tab-title h2 {
+    font-size: larger;
+}
+
+.tab-title p {
+    font-size: medium;
+}
+
+.tab-title p:last-child {
+    border-bottom: 5px solid #fff;
+    margin: 0 0 0.5rem 0;
+}
+
+
+@media all and (max-width:1020px) {
+    .product-item p {
+        font-size: small;
+        width: 80%;
+    }
+
+    .product-item h1,
+    .Ingredient-Items h2,
+    .nutrition-page h2 {
+        font-size: large;
+    }
+
+    .Ingredient-Items {
+        font-size: medium;
+    }
+}
+
+@media (min-width:1080px) {
+    .nutrition-banner {
+        width: 400px;
+        padding: 0.5rem;
+    }
+}

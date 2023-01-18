@@ -1,0 +1,32 @@
+.product-page{
+    padding-top: 100px;
+    width: 100%;
+    height: 100%;
+}
+
+#back-btn {
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+    border: 2px solid #fff;
+    background-color: #d9d9d9;
+    color: black;
+    font-size: var(--font-medium);
+    font-weight: var(--font-heading2);
+    font-family: var(--font-secondary);
+    cursor: pointer;
+    margin-bottom: 25px;
+}
+
+a{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+#back-btn:hover, #back-btn:active{
+    background-color: var(--clr-primary);
+    color: var(--clr-wht);
+    border: 2px double rgb(136, 165, 30);
+}
