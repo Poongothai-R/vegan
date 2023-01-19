@@ -3,8 +3,10 @@
     width: 100vw;
     position: fixed;
     z-index: 1000;
-    background-color: var(--clr-black);
+    /*background-color: #0f2020;*/
     font-family: var(--font-primary);
+    background: rgba(15,32,32,0.5);
+    backdrop-filter: blur(10px);
 }
 
 nav {
@@ -30,6 +32,9 @@ nav ul li a {
     letter-spacing: 2px;
 }
 
+nav ul li a:hover{
+    border-bottom: 2px solid #ffffff;
+}
 nav img {
     height: 80px;
 }

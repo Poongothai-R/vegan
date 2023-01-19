@@ -2,7 +2,7 @@ import '../styles/pages/contact.css';
 import ContactHeroImg from '../assets/hero/contact-hero.jpg';
 import ShopWorkTime from '../components/ShopWorkTime';
 import FormData from '../components/FormData';
-/*import LocationMap from '../components/LocationMap';*/
+import LocationMap from '../components/LocationMap';
 
 export default function Contact() {
     return (
@@ -11,7 +11,7 @@ export default function Contact() {
                 <img src={ContactHeroImg} alt=" restaurant owner standing pose" />
                 <ShopWorkTime />
                 <FormData />
-                {/*<LocationMap />*/}
+                <LocationMap />
             </div>
         </div>
     )

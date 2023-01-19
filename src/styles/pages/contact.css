@@ -48,7 +48,7 @@
 
 .map-page {
     height: 50vh;
-    width: 50%;
+    width: 50vw;
 }
 
 .map-point{
@@ -81,7 +81,7 @@
 
     .map-page {
         height: 50vh;
-        width: 100%;
+        width: 90vw;
         padding: 10px;
     }
 }
@@ -100,7 +100,7 @@
 
     .map-page {
         height: 70vh;
-        width: 90%;
+        width: 90vw;
         padding: 10px;
     }
 
