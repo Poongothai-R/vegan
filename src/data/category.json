@@ -4,12 +4,12 @@
     "title": "Dishes",
     "categoryImage": "dishes/vegan-dishes-hero1.jpg",
     "categoryHeroImage": "dishes/vegan-dishes-hero2.jpg",
-    "desc": "Trust us: vegan food is delicious. We've put a lot of effort into creating innovative, nourishing vegan-friendly recipes – try creamy lentils with spinach and thyme; sweet potato linguine with puy lentil ragù; overnight plum and almond oats; or our ultimate grillable vegan burgers.",
+    "desc": "Trust us: vegan food is delicious. We've put a lot of effort into creating innovative, nourishing vegan-friendly food choices for you. These will make you wanna be vegan.",
     "products": [
       {
         "id": 0,
         "name": "South Indian Rice Cake",
-        "shortDescription": "This recipe makes soft, fluffy and spongy,  rice that goes into making a traditional Idli(rice cake) better. A healthy, vegan, soy-free recipe, can easily be nut-free. ",
+        "shortDescription": "Fluffy and spongy traditional Idli(rice cake). A healthy, vegan, soy-free meal, can easily be nut-free. ",
         "longDescription": "Idli is a soft & fluffy steamed cake made of fermented rice & lentil batter. These are one of the healthiest protein packed breakfasts from south indian cuisine. Idli are easily digestible as the rice & lentils known as DAL are soaked, ground, fermented & then prepared by steaming the batter. These are served with a tomato / coconut chutney and or with a tiffin sambar.",
         "image": "dishes/south-indian-rice-cake.jpg",
         "ingredients": [
@@ -70,7 +70,7 @@
       {
         "id": 1,
         "name": "Broccoli-potato-radish salad",
-        "shortDescription": "A light, summery meal which makes the most of seasonal veg and everyday ingredients, such as lemon, chilli and dill. Plus, you’ll be eating in just 20 minutes.",
+        "shortDescription": "A light, summery meal which makes the most of seasonal veg and everyday ingredients, such as lemon, chilli and dill.",
         "longDescription": "A truly delicious recipe for Vegan Broccoli Salad (using no mayo) made with raw broccoli, farmers market veggies and a Creamy Herby Hemp Dressing you will want to drink! (No hemp seeds? Try Cashews! )A delicious, healthy make-ahead salad, perfect for weekday lunches. Easy, packable and full of flavor! Vegan and Keto!",
         "image": "dishes/Broccoli-potato-radish-salad.jpg",
         "ingredients": [
@@ -131,7 +131,7 @@
       {
         "id": 2,
         "name": "Burrito bowl",
-        "shortDescription": "Chuck a handful of cheap ’n’ cheerful ingredients together to make this vegan burrito bowl, delivering all the big flavours you’d want without using the oven.",
+        "shortDescription": "A handful of cheap ’n’ cheerful ingredients together make this vegan burrito bowl, delivering all the big flavours you’d want.",
         "longDescription": "Well-balanced with protein, carbs and healthy fats. You can make them lower in carbs by swapping out the rice for Cilantro Lime Cauliflower Rice and leaving out the corn",
         "image": "dishes/Burrito-bowl.jpg",
         "ingredients": [
@@ -192,7 +192,7 @@
       {
         "id": 3,
         "name": "Sweet Potato Soup",
-        "shortDescription": "Velvety, wholesome and packed with plenty of umami flavour, this simple soup is made of cheap, everyday ingredients and is surprisingly low in calories.",
+        "shortDescription": "Velvety, wholesome and packed with plenty of umami flavour made of everyday ingredients and is surprisingly low in calories.",
         "longDescription": "Sweet potato soup is the perfect fall and winter soup. It’s a rich blend of creamy sweet potatoes, carrots, fresh ginger, and a hint of spice. Top it off with a swirl of coconut cream, watercress, and crushed pistachios for a delicious and filling weeknight meal.",
         "image": "dishes/sweet-potato-soup.jpg",
         "ingredients": [
@@ -253,7 +253,7 @@
       {
         "id": 4,
         "name": "Avocado-Cucumber Rolls",
-        "shortDescription": "Slices of creamy avocado balance out all that crunch, while sliced scallion and mint provide fragrant freshness. Pineapple is an unexpected addition.",
+        "shortDescription": "Slices of creamy avocado balance out all that crunch, while sliced scallion and mint provide fragrant freshness.",
         "longDescription": "Stuffed with a ton of fresh vegetables like baby greens, cucumbers, and blanched green beans, these rolls are as healthy as they are heavenly!",
         "image": "dishes/Avocado-Cucumber-Rolls.jpg",
         "ingredients": [
@@ -318,12 +318,12 @@
     "title": "Desserts",
     "categoryImage": "desserts/Vegan-Dessert-hero1.jpg",
     "categoryHeroImage": "desserts/Vegan-Dessert-hero2.jpg",
-    "desc": "Trust us: vegan food is delicious. We've put a lot of effort into creating innovative, nourishing vegan-friendly recipes – try creamy lentils with spinach and thyme; sweet potato linguine with puy lentil ragù; overnight plum and almond oats; or our ultimate grillable vegan burgers.",
+    "desc": "No meal is whole without a dessert. Try our specially made vegan desserts just for you. We have put a lot of effort to replace the ingrediants without sacrificing the taste.",
 	 "products": [
       {
         "id": 0,
         "name": "peanut-butter-cookies",
-        "shortDescription": "Nutty, buttery and quick to make, these crisp peanut butter cookies are gluten-free and great for baking with kids.",
+        "shortDescription": "Nutty, buttery crisp peanut butter cookies are gluten-free and great kids too.",
         "longDescription": "There's nothing like a peanut butter cookie to satisfy your sweet tooth and lift your spirits. This peanut butter cookie recipe will quickly become a family favorite!",
         "image": "desserts/peanut-butter-cookies.jpg",
         "ingredients": [
@@ -384,7 +384,7 @@
       {
         "id": 1,
         "name": "Vegan-Banana-bread",
-        "shortDescription": "Check out our moist vegan banana bread. This recipe is super moreish and easy to make, it goes perfectly with your morning tea.",
+        "shortDescription": "Check out our moist vegan banana bread. It goes perfectly with our tea.",
         "longDescription": "Use up ripe bananas to make easy vegan banana bread – the perfect breakfast treat to enjoy with your morning cuppa. We love it toasted with peanut butter!",
         "image": "desserts/Vegan-Banana-bread.jpg",
         "ingredients": [
@@ -445,7 +445,7 @@
       {
         "id": 2,
         "name": "Turmeric-Fool",
-        "shortDescription": "This recipe makes the lightest, most delicate and lovely little puddings! The coconut and mango combination is really refreshing and you don't even notice it's dairy-free because of the creaminess of the coconut cream.",
+        "shortDescription": "The coconut and mango combination is really refreshing and you don't even notice it's dairy-free.",
         "longDescription": "Turmeric is most familiar in savoury curry recipes, but it’s really fab in sweet things too. Here it’s combined with mango and coconut to make a tropical, dairy-free fool. If you’ve never tried whipping coconut cream you’re in for an absolute treat!",
         "image": "desserts/Turmeric-Fool.jpg",
         "ingredients": [
@@ -506,7 +506,7 @@
       {
         "id": 3,
         "name": "Vegan-French-toast",
-        "shortDescription": "This recipe uses dairy-free milk along with maple syrup to crisp up the toast instead of using eggs.",
+        "shortDescription": "Crunchy cinnamon toast made of dairy-free milk and maple syrup, served with coconut yogurt.",
         "longDescription": "We've put a vegan twist on the brunch staple – the maple-cinnamon glaze helps crisp up the toast and caramelise the edges. Serve with coconut yogurt and berries for extra indulgence.",
         "image": "desserts/Vegan-French-toast.jpg",
         "ingredients": [
@@ -632,12 +632,12 @@
     "title": "Drinks",
     "categoryImage": "drinks/vegan-drinks-hero1.jpg",
     "categoryHeroImage": "drinks/vegan-drinks-hero2.jpg",
-    "desc": "Trust us: vegan food is delicious. We've put a lot of effort into creating innovative, nourishing vegan-friendly recipes – try creamy lentils with spinach and thyme; sweet potato linguine with puy lentil ragù; overnight plum and almond oats; or our ultimate grillable vegan burgers.",
+    "desc": "Look at our large selection of beverages. We have it from iced lemon tea to no-milk hot chocolate. There is a drink for everyone, you just have to pick yours!",
 	 "products": [
       {
         "id": 0,
         "name": "Chai-latte",
-        "shortDescription": "Infuse black tea and almond milk with fragrant spices for a dairy-free twist on this Indian-inspired drink. ",
+        "shortDescription": "Infused black tea and almond milk with fragrant spices for a dairy-free twist. ",
         "longDescription": "Another benefit of drinking chai lattes is their ability to boost one's heart health. They contain flavonoids, which are a special compound that is found in black tea. Flavonoids help prevent plaque buildup in the body's arteries, which in turn, reduces stress on the heart.",
         "image": "drinks/Chai-latte.jpg",
         "ingredients": [
@@ -698,7 +698,7 @@
       {
         "id": 1,
         "name": "Cherry-lemon-iced-tea",
-        "shortDescription": "This take on ice tea is tart, savory, and insanely refreshing.It takes your standard ice tea to new heights, infused with vanilla, mint, lemon, and star anise.",
+        "shortDescription": "This take on ice tea is tart, savory and insanely refreshing, infused with vanilla, mint, lemon and star anise.",
         "longDescription": "Many people consume it for its great taste but along with that it also works as a detoxifier it helps cleanse our digestive system. It improves our immune system as it has anti-inflammatory properties and also keeps a health check.",
         "image": "drinks/Cherry-lemon-iced-tea.jpg",
         "ingredients": [
@@ -759,7 +759,7 @@
       {
         "id": 2,
         "name": "Cucumber-flavored-buttermilk",
-        "shortDescription": "The refreshing buttermilk gets a cool addition – cucumber. Buttermilk can be so delicious, creamy, buttery, and tangy.",
+        "shortDescription": "The refreshing spiced vegan buttermilk gets a cool addition – cucumber.",
         "longDescription": "This spiced buttermilk will keep you hydrated and cool during hot days, and as an added bonus it will aid in better digestion.A drink all will love!",
         "image": "drinks/Cucumber-flavored-buttermilk.jpg",
         "ingredients": [
@@ -820,7 +820,7 @@
       {
         "id": 3,
         "name": "Turmeric-latte",
-        "shortDescription": "Turmeric is thought to have a host of health benefits, including anti-inflammatory and antioxidant properties – get more of the spice into your diet by whipping up this golden latte at home.",
+        "shortDescription": "Turmeric has a host of health benefits including anti-inflammatory and antioxidant properties – get some of that in.",
         "longDescription": "Creamy turmeric latte, also known as golden milk or turmeric milk, is a delicious warming Indian beverage. Made with hints of warming spices, you'll love this simple recipe with a handful of ingredients.Make this turmeric latte for breakfast.",
         "image": "drinks/Turmeric-latte.jpg",
         "ingredients": [
@@ -881,7 +881,7 @@
       {
         "id": 4,
         "name": "vegan-hot-chocolate",
-        "shortDescription": "This dairy-free hot chocolate is silky, sweet and topped with whipped plant-based cream – use oat or almond milk alternatives in this warming drink.",
+        "shortDescription": "This dairy-free hot chocolate is silky, sweet and topped with whipped plant-based cream.",
         "longDescription": "Coconut milk | This milk creates a creamy sweeter hot chocolate, this can add a slight taste of coconut. Soya | This milk is a very common plant based milk. This milk creates a slightly sweeter hot chocolate and you can taste the subtle flavour of the milk!",
         "image": "drinks/vegan-hot-chocolate.jpg",
         "ingredients": [

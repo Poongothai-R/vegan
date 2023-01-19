@@ -6,7 +6,6 @@ import Nutrition from '../components/Nutrition';
 import '../styles/pages/Product.css';
 
 
-
 export default function Product() {
     const { Category, id } = useParams();
 

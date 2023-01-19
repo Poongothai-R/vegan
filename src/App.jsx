@@ -7,13 +7,15 @@ import { Routes, Route, BrowserRouter } from 'react-router-dom';
 import Category from './Pages/Category';
 import Product from './Pages/Product';
 import Contact from './Pages/Contact';
+import GoToTop from "./GoTop";
+
 
 
 export default function App() {
     return (
         <BrowserRouter>
             {/* <div className="App"> */}
-
+            <GoToTop />
             <Navbar />
             <Routes>
                 <Route path="/" element={<Home />} />

@@ -3,7 +3,7 @@
 }
 
 .category-page{
-    padding-top: 100px;
+    padding-top: 80px;
     height: 80vh;
     width: 100%;
     font-family: var(--font-primary);
@@ -24,25 +24,28 @@
 
 .category-page h1{
     font-weight: var(--font-heading);
-    font-size: 88px;
+    font-size: 106px;
     text-align: center;
     padding-top: 15vh;
 }
 
+/*
 .category-page h1:hover{
     font-size: 106px;
 }
+*/
 
 .category-page p{
     text-align: justify;
     padding-top: 50px;
     padding: 100px 250px 0 250px;
     text-justify:inter-word;
-}
-
-.category-page p:hover{
     font-size: x-large;
 }
+
+/*.category-page p:hover{
+    font-size: x-large;
+}*/
 
 @media all and (max-width: 700px) {
     .category-page h1{
