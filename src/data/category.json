@@ -13,11 +13,11 @@
         "longDescription": "Idli is a soft & fluffy steamed cake made of fermented rice & lentil batter. These are one of the healthiest protein packed breakfasts from south indian cuisine. Idli are easily digestible as the rice & lentils known as DAL are soaked, ground, fermented & then prepared by steaming the batter. These are served with a tomato / coconut chutney and or with a tiffin sambar.",
         "image": "dishes/south-indian-rice-cake.jpg",
         "ingredients": [
-          "Rice 🍝",
-          "Urad Dal 🌰",
-          "Fenugreek 🧅",
-          "Water 🍃",
-          "Salt 🥦"
+          "Rice \uD83C\uDF3E",
+          "Urad Dal \uD83C\uDF3E",
+          "Fenugreek \uD83C\uDF40",
+          "Water \uD83D\uDCA7",
+          "Salt \uD83E\uDDC2"
         ],
         "nutrition": [
           {
@@ -74,11 +74,11 @@
         "longDescription": "A truly delicious recipe for Vegan Broccoli Salad (using no mayo) made with raw broccoli, farmers market veggies and a Creamy Herby Hemp Dressing you will want to drink! (No hemp seeds? Try Cashews! )A delicious, healthy make-ahead salad, perfect for weekday lunches. Easy, packable and full of flavor! Vegan and Keto!",
         "image": "dishes/Broccoli-potato-radish-salad.jpg",
         "ingredients": [
-          "Potato 🥔",
-          "Paneer 🍞",
-          "Tofu 🥦",
-          "Coriander 🍀",
-          "Brocolli 🥦"
+          "Potato \uD83E\uDD54",
+          "Radish \uD83E\uDD6C",
+          "Chilli \uD83C\uDF36",
+          "Lemon \uD83C\uDF4B",
+          "Broccoli \uD83E\uDD66"
         ],
         "nutrition": [
           {
@@ -135,11 +135,11 @@
         "longDescription": "Well-balanced with protein, carbs and healthy fats. You can make them lower in carbs by swapping out the rice for Cilantro Lime Cauliflower Rice and leaving out the corn",
         "image": "dishes/Burrito-bowl.jpg",
         "ingredients": [
-          "Millet 🥘",
+          "Millet \uD83C\uDF3E",
           "Spinach 🌿",
-          "Cocunut 🥥",
-          "Chillies 🌶️",
-          "Shallots 🧅"
+          "Sweetcorn \uD83C\uDF3D",
+          "Chilli \uD83C\uDF36",
+          "Lemon \uD83C\uDF4B"
         ],
         "nutrition": [
           {
@@ -196,11 +196,11 @@
         "longDescription": "Sweet potato soup is the perfect fall and winter soup. It’s a rich blend of creamy sweet potatoes, carrots, fresh ginger, and a hint of spice. Top it off with a swirl of coconut cream, watercress, and crushed pistachios for a delicious and filling weeknight meal.",
         "image": "dishes/sweet-potato-soup.jpg",
         "ingredients": [
-          "Noodles 🍜",
-          "Mushroom 🍄",
-          "Paneer 🍞",
-          "Greenpeas 🥒 ",
-          "Capscicum 🫑"
+          "SweetPotato \uD83C\uDF60",
+          "Onion \uD83E\uDDC5",
+          "Ginger \uD83E\uDD56",
+          "Green peas \uD83D\uDFE2 ",
+          "Garlic \uD83E\uDDC4"
         ],
         "nutrition": [
           {
@@ -257,11 +257,11 @@
         "longDescription": "Stuffed with a ton of fresh vegetables like baby greens, cucumbers, and blanched green beans, these rolls are as healthy as they are heavenly!",
         "image": "dishes/Avocado-Cucumber-Rolls.jpg",
         "ingredients": [
-          "Ramen 🍜",
-          "Mushroom 🍄",
-          "Tofu 🥦",
-          "Bok Choy 🌱",
-          "Scallions 🪴"
+          "Avacado \uD83E\uDD51",
+          "Mushroom \uD83C\uDF44",
+          "Spinach \uD83C\uDF3F",
+          "Bok Choy \uD83E\uDD6C",
+          "Cucumber \uD83E\uDD52"
         ],
         "nutrition": [
           {
@@ -327,11 +327,11 @@
         "longDescription": "There's nothing like a peanut butter cookie to satisfy your sweet tooth and lift your spirits. This peanut butter cookie recipe will quickly become a family favorite!",
         "image": "desserts/peanut-butter-cookies.jpg",
         "ingredients": [
-          "Rice ",
-          "Urad Dal 🌰",
-          "Fenugreek 🧅",
-          "Water 🍃",
-          "Salt 🥦"
+          "Peanut \uD83E\uDD5C",
+          "Vegan butter \uD83E\uDDC8",
+          "Plain flour \uD83C\uDF5A",
+          "Chocolate chip \uD83C\uDF6B",
+          "Palm sugar \uD83D\uDFE1"
         ],
         "nutrition": [
           {
@@ -388,11 +388,11 @@
         "longDescription": "Use up ripe bananas to make easy vegan banana bread – the perfect breakfast treat to enjoy with your morning cuppa. We love it toasted with peanut butter!",
         "image": "desserts/Vegan-Banana-bread.jpg",
         "ingredients": [
-          "Potato 🥔",
-          "Paneer 🍞",
-          "Tofu 🥦",
-          "Coriander 🍀",
-          "Brocolli 🥦"
+          "Banana \uD83C\uDF4C",
+          "Cinnamon \uD83E\uDD56",
+          "Plain flour \uD83C\uDF5A",
+          "Palm sugar \uD83D\uDFE1",
+          "Almond milk \uD83C\uDF76"
         ],
         "nutrition": [
           {
@@ -449,11 +449,11 @@
         "longDescription": "Turmeric is most familiar in savoury curry recipes, but it’s really fab in sweet things too. Here it’s combined with mango and coconut to make a tropical, dairy-free fool. If you’ve never tried whipping coconut cream you’re in for an absolute treat!",
         "image": "desserts/Turmeric-Fool.jpg",
         "ingredients": [
-          "Millet 🥘",
-          "Spinach 🌿",
-          "Cocunut 🥥",
-          "Chillies 🌶️",
-          "Shallots 🧅"
+          "Mangoes \uD83E\uDD6D",
+          "Turmeric 🌿",
+          "Coconut 🥥",
+          "Palm sugar \uD83D\uDFE1",
+          "Orange \uD83C\uDF4A"
         ],
         "nutrition": [
           {
@@ -510,11 +510,11 @@
         "longDescription": "We've put a vegan twist on the brunch staple – the maple-cinnamon glaze helps crisp up the toast and caramelise the edges. Serve with coconut yogurt and berries for extra indulgence.",
         "image": "desserts/Vegan-French-toast.jpg",
         "ingredients": [
-          "Noodles 🍜",
-          "Mushroom 🍄",
-          "Paneer 🍞",
-          "Greenpeas 🥒 ",
-          "Capscicum 🫑"
+          "Cornflour \uD83C\uDF3D",
+          "Cinnamon \uD83E\uDD56",
+          "Bread 🍞",
+          "Maple syrup \uD83E\uDD6B ",
+          "Vanilla bean \uD83E\uDDF4"
         ],
         "nutrition": [
           {
@@ -571,11 +571,11 @@
         "longDescription": "This vegan lemon meringue pie can be made in either a baked pie crust or a no bake crust! It’s filled with a creamy vegan lemon curd and topped with a vegan meringue. Made without dairy, without eggs, and with no refined sugar. Naturally gluten free and paleo!!",
         "image": "desserts/vegan-lemon-pie.jpg",
         "ingredients": [
-          "Ramen 🍜",
-          "Mushroom 🍄",
-          "Tofu 🥦",
+          "Plain flour \uD83C\uDF3E",
+          "Cornflour \uD83C\uDF3D",
+          "Lemon \uD83C\uDF4B",
           "Bok Choy 🌱",
-          "Scallions 🪴"
+          "Vegan butter \uD83E\uDDC8"
         ],
         "nutrition": [
           {
@@ -641,11 +641,11 @@
         "longDescription": "Another benefit of drinking chai lattes is their ability to boost one's heart health. They contain flavonoids, which are a special compound that is found in black tea. Flavonoids help prevent plaque buildup in the body's arteries, which in turn, reduces stress on the heart.",
         "image": "drinks/Chai-latte.jpg",
         "ingredients": [
-          "Rice 🍝",
-          "Urad Dal 🌰",
-          "Fenugreek 🧅",
-          "Water 🍃",
-          "Salt 🥦"
+          "Cinnamon \uD83E\uDD56",
+          "Black pepper ⚫",
+          "Cloves 🧅",
+          "Almond milk \uD83C\uDF76",
+          "Ginger \uD83E\uDD56"
         ],
         "nutrition": [
           {
@@ -702,11 +702,11 @@
         "longDescription": "Many people consume it for its great taste but along with that it also works as a detoxifier it helps cleanse our digestive system. It improves our immune system as it has anti-inflammatory properties and also keeps a health check.",
         "image": "drinks/Cherry-lemon-iced-tea.jpg",
         "ingredients": [
-          "Potato 🥔",
-          "Paneer 🍞",
-          "Tofu 🥦",
-          "Coriander 🍀",
-          "Brocolli 🥦"
+          "Cherry \uD83C\uDF52",
+          "Lemon\uD83C\uDF4B",
+          "Almond milk \uD83E\uDD6B",
+          "Mint \uD83C\uDF40",
+          "Anise \uD83C\uDF8B"
         ],
         "nutrition": [
           {
@@ -763,11 +763,11 @@
         "longDescription": "This spiced buttermilk will keep you hydrated and cool during hot days, and as an added bonus it will aid in better digestion.A drink all will love!",
         "image": "drinks/Cucumber-flavored-buttermilk.jpg",
         "ingredients": [
-          "Millet 🥘",
-          "Spinach 🌿",
-          "Cocunut 🥥",
-          "Chillies 🌶️",
-          "Shallots 🧅"
+          "Cucumber \uD83E\uDD52",
+          "Vegan butter milk \uD83E\uDD5B",
+          "Coconut milk 🥥",
+          "Cinnamon \uD83E\uDD56",
+          "Ginger 🧅"
         ],
         "nutrition": [
           {
@@ -824,11 +824,11 @@
         "longDescription": "Creamy turmeric latte, also known as golden milk or turmeric milk, is a delicious warming Indian beverage. Made with hints of warming spices, you'll love this simple recipe with a handful of ingredients.Make this turmeric latte for breakfast.",
         "image": "drinks/Turmeric-latte.jpg",
         "ingredients": [
-          "Noodles 🍜",
-          "Mushroom 🍄",
-          "Paneer 🍞",
-          "Greenpeas 🥒 ",
-          "Capscicum 🫑"
+          "Turmeric \uD83C\uDF3E",
+          "Sweet cream \uD83C\uDF66",
+          "Cinnamon \uD83E\uDD56",
+          "Cardamom 🥒 ",
+          "Almond milk \uD83E\uDD6B"
         ],
         "nutrition": [
           {
@@ -885,11 +885,11 @@
         "longDescription": "Coconut milk | This milk creates a creamy sweeter hot chocolate, this can add a slight taste of coconut. Soya | This milk is a very common plant based milk. This milk creates a slightly sweeter hot chocolate and you can taste the subtle flavour of the milk!",
         "image": "drinks/vegan-hot-chocolate.jpg",
         "ingredients": [
-          "Ramen 🍜",
-          "Mushroom 🍄",
-          "Tofu 🥦",
-          "Bok Choy 🌱",
-          "Scallions 🪴"
+          "Almond milk \uD83E\uDD6B",
+          "Cocoa \uD83D\uDFE4",
+          "Maple syrup \uD83E\uDDF4",
+          "Plant based cream🌱",
+          "Palm sugar \uD83D\uDFE1"
         ],
         "nutrition": [
           {

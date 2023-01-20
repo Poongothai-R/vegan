@@ -27,7 +27,7 @@ export default function FormData() {
                     <input type="date" placeholder="Date" name="date" />
                     <button className="form-btn">Submit</button>
                 </div>
-                {formSubmit && "Thank you! Table has been booked! "}
+                {formSubmit && "Thank you! Your table has been booked! "}
             </form>
         </div>
     );
