@@ -1,5 +1,6 @@
 import { useRef, useState } from "react";
 import '../styles/components/formdata.css';
+import EmailJS from '@emailjs/browser';
 
 
 export default function FormData() {
@@ -9,6 +10,15 @@ export default function FormData() {
 
     const handleSubmit = (e) => {
         e.preventDefault();
+        EmailJS.sendForm(
+            "service_l6h5jmk",
+            "template_x2fdt3b",
+            "current",
+            "7lOVdyYSzgSmQbCw4"
+        ).then(
+            result=>console.log(result.text),
+        error=>console.log(error.text)
+        );
         setFormSubmit(true);
     };
 
