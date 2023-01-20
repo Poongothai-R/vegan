@@ -1,7 +1,8 @@
 .footer {
     height: 80px;
     width: 100%;
-    background-color: var(--clr-black);
+    background-color:#f9ffff;
+    color:#0f2020;
     display: flex;
     flex-direction: column;
     gap: 10px;
