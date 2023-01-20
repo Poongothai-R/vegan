@@ -13,7 +13,7 @@ Host Link: https://vegan-restaurant-e7799.web.app/
 ### `npm install emailjs-com `
 
 ## Installation
-### Clone this repository: git clone https://github.com/Poongothai-R/Vegan
+ Clone this repository: git clone https://github.com/Poongothai-R/Vegan
 
 ### Install the dependencies by running npm install in the project directory
 
