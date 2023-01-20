@@ -4,7 +4,6 @@ import EmailJS from '@emailjs/browser';
 
 
 export default function FormData() {
-
     const formRef = useRef();
     const [formSubmit, setFormSubmit] = useState(false);
 
