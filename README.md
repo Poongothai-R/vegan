@@ -27,9 +27,13 @@ To run the project in the production mode, use this command npm run build.
 
 ## 5-step process
  Requirement Gathering : https://docs.google.com/document/d/1xdEqWcbFHeB9HPvbA1EJiGiZ28O66d7e/edit?usp=sharing&ouid=116703376871078166819&rtpof=true&sd=true
+
  Project Spreadsheet : https://docs.google.com/spreadsheets/d/1fDaPNIu4WAZ9eoMKsJtyBgTZATqu-Ye5hYPHttfcLCU/edit?usp=sharing
- Component Tree : https://whimsical.com/vegan-restaurant-SLWAkZLtYNJPTWAcj7F3vP
- Figma Design : https://www.figma.com/file/Yb12jDNAN3t9XNcrNit7gI/VeganRestaurant?node-id=0%3A1&t=tcMnAnxReKj9mLit-1
+ 
+Component Tree : https://whimsical.com/vegan-restaurant-SLWAkZLtYNJPTWAcj7F3vP
+
+Figma Design : https://www.figma.com/file/Yb12jDNAN3t9XNcrNit7gI/VeganRestaurant?node-id=0%3A1&t=tcMnAnxReKj9mLit-1
+
 UserFlow :https://whimsical.com/vegan-userflow-MRhcNhWF7jDc4aS5xiG82
 
 
