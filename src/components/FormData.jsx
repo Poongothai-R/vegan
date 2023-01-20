@@ -16,7 +16,9 @@ export default function FormData() {
             formRef.current,
             "7lOVdyYSzgSmQbCw4"
         )
-            .then(result=>(setFormSubmit(true)));
+            .then(result=>(setFormSubmit(true)),
+                (error=>alert("sorry,your booking has failed")));
+                e.target.reset();
     };
 
     return (
