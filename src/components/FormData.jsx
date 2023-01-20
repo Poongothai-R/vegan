@@ -7,6 +7,10 @@ export default function FormData() {
 
     const formRef = useRef();
     const [formSubmit, setFormSubmit] = useState(false);
+    const now = new Date();
+    const offsetMs = now.getTimezoneOffset() * 60 * 1000;
+    const dateLocal = new Date(now.getTime()+(2 * 60 * 60 * 1000) - offsetMs);
+    const minTime = dateLocal.toISOString().slice(0, 19).replace(/-/g, "-");
 
     const handleSubmit = (e) => {
         e.preventDefault();
@@ -27,13 +31,13 @@ export default function FormData() {
                 <h1>Book a Table</h1>
                 <div className="form_content">
                     <label htmlFor="name">Name</label>
-                    <input type="text" placeholder="Name" name="user_name" id="name" />
+                    <input type="text" placeholder="Name" name="user_name" id="name" required/>
                     <label>Email</label>
-                    <input type="email" placeholder="Email" name="user_email" />
+                    <input type="email" placeholder="Email" name="user_email" required/>
                     <label>No of Seats</label>
-                    <input type="number" placeholder="No of Seats" name="user_seats" />
+                    <input type="number" placeholder="No of Seats" name="user_seats" required />
                     <label>Booking date</label>
-                    <input type="date" placeholder="Date" name="date" />
+                    <input type="datetime-local" min={minTime} placeholder="Date" name="date" required />
                     <button className="form-btn">Submit</button>
                 </div>
                 {formSubmit && "Thank you! Your table has been booked! "}
