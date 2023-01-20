@@ -1,6 +1,7 @@
 import '../styles/components/footer.css';
 import { FaTwitter, FaFacebookF, FaYoutube, FaInstagram } from 'react-icons/fa';
 
+
 export default function footer() {
     return (
         <div className="footer" id="footer">

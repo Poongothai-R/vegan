@@ -7,8 +7,8 @@ export default function Hero() {
     return (
         <div className="hero-page">
             <div className="hero-bg">
-                <img src={HeroPCImg} alt="vegitables in bowl" className='big-screen' />
-                <img src={HeroMbeImg} alt="vegitables in bowl" className='small-screen' />
+                <img src={HeroPCImg} alt="vegetables in a bowl" className='big-screen' />
+                <img src={HeroMbeImg} alt="vegetables in a bowl" className='small-screen' />
             </div>
             <div className="hero-content">
                 <h2> Hungry?</h2>

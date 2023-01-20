@@ -13,13 +13,10 @@ export default function FormData() {
         EmailJS.sendForm(
             "service_l6h5jmk",
             "template_x2fdt3b",
-            "current",
+            formRef.current,
             "7lOVdyYSzgSmQbCw4"
-        ).then(
-            result=>console.log(result.text),
-        error=>console.log(error.text)
-        );
-        setFormSubmit(true);
+        )
+            .then(result=>(setFormSubmit(true)));
     };
 
     return (

@@ -8,7 +8,6 @@ export default function HomeMenuCard({ MenuItem }) {
     const ImgURL = require(`../assets/${categoryImage}`);
 
     return (
-
         <div className="category-card" id='category-card'>
             <div className="category-left">
                 <img src={ImgURL} alt={title} />
