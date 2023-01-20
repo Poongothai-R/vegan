@@ -1,3 +1,5 @@
+
+
 export default function Nutrition({ ProductData }) {
     const NutritionData = ProductData.nutrition.map((data) => (
         <tr key={data.id} data={data}>

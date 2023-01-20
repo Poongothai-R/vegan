@@ -3,7 +3,7 @@ import Logo from '../assets/logo/Veganfresh-logo1.png';
 import { Link } from 'react-router-dom';
 
 
-export default function Navbar() {
+export default function NavigationBar() {
     return (
         <div className="navbar" id="navbar">
             <nav>

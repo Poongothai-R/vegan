@@ -11,7 +11,6 @@ export default function Category() {
         (item) => item.title === Category
     );
     const CategoryImgURL = require(`../assets/${categoryHeroImage}`);
-
     const ProductList = products.map((recs) => (
         <ProductCard key={recs.id} Productdata={recs} />
     ));
@@ -19,7 +18,7 @@ export default function Category() {
     return (
         <div className="category">
             <div className="category-page">
-                <img src={CategoryImgURL} alt="vegitable in bowl" />
+                <img src={CategoryImgURL} alt="vegetable in bowl" />
                 <h1>{Category}</h1>
                 <p>{desc}</p>
             </div>

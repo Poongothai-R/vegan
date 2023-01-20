@@ -8,14 +8,10 @@ import '../styles/pages/Product.css';
 
 export default function Product() {
     const { Category, id } = useParams();
-
     const { products } = CategoryData.find(
-        (item) => item.title === Category
-    );
-
+        (item) => item.title === Category);
     const ProductDetail = products.find(
-        (recs) => recs.id === Number(id)
-    );
+        (recs) => recs.id === Number(id));
 
     return (
         <div className="product-page">
