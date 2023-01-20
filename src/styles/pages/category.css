@@ -61,9 +61,9 @@
         font-size: small;
     }
 
-    .category-page p:hover{
+    /*.category-page p:hover{
         font-size: large;
-    }
+    }*/
 }
 
 @media (min-width:700px) and (max-width: 1080px) {
