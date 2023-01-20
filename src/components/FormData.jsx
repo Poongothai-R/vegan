@@ -6,6 +6,10 @@ import EmailJS from '@emailjs/browser';
 export default function FormData() {
     const formRef = useRef();
     const [formSubmit, setFormSubmit] = useState(false);
+    const now = new Date();
+    const offsetMs = now.getTimezoneOffset() * 60 * 1000;
+    const dateLocal = new Date(now.getTime()+(2 * 60 * 60 * 1000) - offsetMs);
+    const minTime = dateLocal.toISOString().slice(0, 19).replace(/-/g, "-");
 
     const handleSubmit = (e) => {
         e.preventDefault();
@@ -32,10 +36,10 @@ export default function FormData() {
                     <label>No of Seats</label>
                     <input type="number" placeholder="No of Seats" name="user_seats" required />
                     <label>Booking date</label>
-                    <input type="date"  step="any" placeholder="Date" name="date" required />
+                    <input type="datetime-local"  min={minTime}step="any" placeholder="Date" name="date" required />
                     <button className="form-btn">Submit</button>
                 </div>
-                {formSubmit && "Thanks for contact us! "}
+                {formSubmit && "Thank you for contacting us! "}
             </form>
         </div>
     );
