@@ -6,7 +6,6 @@
     padding: 20px;
     column-gap: 20px;
 }
-
 #category-card:nth-child(even) {
     flex-direction: row-reverse;
 }
