@@ -1,19 +1,21 @@
-@import url('https://fonts.googleapis.com/css?family=Laila&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Laila&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
 
+:root {
+  /* naming -3,  i would never guess what -clr-primary is if i dont read its value  */
+  --clr-black: #000;
+  --clr-wht: #fff;
+  --clr-primary: #0f2020;
+  --font-primary: "laila";
+  --font-secondary: "lato";
+  --font-title: 36px;
+  --font-subtitle: 26px;
+  --font-regular: 12px;
+  --font-medium: 18px;
 
-:root{
-    --clr-black: #000;
-    --clr-wht: #fff;
-    --clr-primary: #0f2020;
-    --font-primary: "laila";
-    --font-secondary: "lato";
-    --font-title: 36px;
-    --font-subtitle: 26px;
-    --font-regular: 12px;
-    --font-medium: 18px;
-    --font-heading: 900;
-    --font-heading1: 700;
-    --font-heading2: 600;
-    --font-normal: 400;
+  /* this ones does not need variables as each one is used only on their respective h1, h2, h3, etc */
+  --font-heading: 900;
+  --font-heading1: 700;
+  --font-heading2: 600;
+  --font-normal: 400;
 }
