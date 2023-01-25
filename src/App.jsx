@@ -1,20 +1,18 @@
 import './styles/global/App.css';
 import './styles/global/variables.css';
 import Navbar from './components/Navbar';
-import Home from './Pages/Home';
+import Home from './pages/Home';
 import Footer from './components/Footer';
 import { Routes, Route, BrowserRouter } from 'react-router-dom';
-import Category from './Pages/Category';
-import Product from './Pages/Product';
-import Contact from './Pages/Contact';
+import Category from './pages/Category';
+import Product from './pages/Product';
+import Contact from './pages/Contact';
 import GoToTop from "./GoTop";
-
 
 
 export default function App() {
     return (
         <BrowserRouter>
-            {/* <div className="App"> */}
             <GoToTop />
             <Navbar />
             <Routes>
@@ -24,8 +22,6 @@ export default function App() {
                 <Route path="/Contact" element={<Contact />} />
             </Routes>
             <Footer />
-
-            {/* </div>  */}
         </BrowserRouter>
     );
 };

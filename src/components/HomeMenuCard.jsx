@@ -15,8 +15,8 @@ export default function HomeMenuCard({ MenuItem }) {
             <div className="category-right">
                 <h2>{title}</h2>
                 <p>{desc}</p>
-                <Link to={`${title}`}>
-                    <button className='category-btn'>View More</button>
+                <Link to={`${title}`} className='category-btn'>
+                    View More
                 </Link>
             </div>
         </div>
