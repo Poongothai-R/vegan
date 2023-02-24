@@ -17,8 +17,9 @@ export default function Category() {
 
     return (
         <div className="category">
+            <img id="category-img" src={CategoryImgURL} alt="vegetable in bowl" />
             <div className="category-page">
-                <img src={CategoryImgURL} alt="vegetable in bowl" />
+
                 <h1>{Category}</h1>
                 <p>{desc}</p>
             </div>

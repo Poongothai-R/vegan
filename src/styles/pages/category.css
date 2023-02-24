@@ -9,7 +9,7 @@
     font-family: var(--font-primary);
 }
 
-.category-page img{
+.category-page img,#category-img{
     height: 80vh;
     width: 100%;
     overflow: hidden;
@@ -72,5 +72,16 @@
     .category-page p{
         padding: 50px 150px 0 150px;
         font-size: large;
+    }
+}
+@media (min-width:1450px){
+
+
+    .product-list,.product-card,.product-content {
+       width:80%;
+        margin:0 auto;
+    }
+    .product-image{
+        align-content: left;
     }
 }

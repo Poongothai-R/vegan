@@ -1,5 +1,6 @@
 import CategoryData from '../data/category.json';
 import HomeMenuCard from './HomeMenuCard.jsx';
+import "../styles/components/homeMenu.css";
 
 
 export default function HomeMenu() {
@@ -7,7 +8,7 @@ export default function HomeMenu() {
         <HomeMenuCard key={recs.id} MenuItem={recs} />
     ));
     return (
-        <div className="category">
+        <div id="category">
             {MenuItem}
         </div>
     )

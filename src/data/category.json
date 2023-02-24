@@ -323,7 +323,7 @@
       {
         "id": 0,
         "name": "peanut-butter-cookies",
-        "shortDescription": "Nutty, buttery crisp peanut butter cookies are gluten-free and great kids too.",
+        "shortDescription": "Nutty, buttery crisp peanut butter cookies with chocolate chips.It is gluten-free and great kids too.",
         "longDescription": "There's nothing like a peanut butter cookie to satisfy your sweet tooth and lift your spirits. This peanut butter cookie recipe will quickly become a family favorite!",
         "image": "desserts/peanut-butter-cookies.jpg",
         "ingredients": [
@@ -384,7 +384,7 @@
       {
         "id": 1,
         "name": "Vegan-Banana-bread",
-        "shortDescription": "Check out our moist vegan banana bread. It goes perfectly with our tea.",
+        "shortDescription": "Check out our moist vegan banana bread. It is so soft and goes perfectly with our special tea.  ",
         "longDescription": "Use up ripe bananas to make easy vegan banana bread – the perfect breakfast treat to enjoy with your morning cuppa. We love it toasted with peanut butter!",
         "image": "desserts/Vegan-Banana-bread.jpg",
         "ingredients": [
@@ -637,7 +637,7 @@
       {
         "id": 0,
         "name": "Chai-latte",
-        "shortDescription": "Infused black tea and almond milk with fragrant spices for a dairy-free twist. ",
+        "shortDescription": "Infused black tea and almond milk with fragrant spices for a dairy-free twist. It keeps our mind so refreshing.",
         "longDescription": "Another benefit of drinking chai lattes is their ability to boost one's heart health. They contain flavonoids, which are a special compound that is found in black tea. Flavonoids help prevent plaque buildup in the body's arteries, which in turn, reduces stress on the heart.",
         "image": "drinks/Chai-latte.jpg",
         "ingredients": [
@@ -759,7 +759,7 @@
       {
         "id": 2,
         "name": "Cucumber-flavored-buttermilk",
-        "shortDescription": "The refreshing spiced vegan buttermilk gets a cool addition – cucumber.",
+        "shortDescription": "The refreshing spiced vegan buttermilk gets a cool addition – cucumber.It keeps our body so cool.",
         "longDescription": "This spiced buttermilk will keep you hydrated and cool during hot days, and as an added bonus it will aid in better digestion.A drink all will love!",
         "image": "drinks/Cucumber-flavored-buttermilk.jpg",
         "ingredients": [
